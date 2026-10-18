@@ -1,7 +1,7 @@
 {
   "_설명": "Cobious BioAlpha 자동 내보내기 (tools/export_share.js). Keith 양식 _양식_bio_alpha.json 기준. 값은 BioAlpha 계산 결과 그대로이며 추정치는 raw.추정항목에 표시.",
   "source_date": "2026-10-18",
-  "generated_at": "2026-10-18T10:18:54.634+0",
+  "generated_at": "2026-10-18T12:21:23.141+0",
   "watchlist": [
     {
       "ticker": "VKTX",
